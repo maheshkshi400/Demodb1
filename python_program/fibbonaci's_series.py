@@ -6,3 +6,4 @@ for i in range(n):
     temp= first
     first=second
     second=second+temp
+    print(second)

@@ -1,0 +1,4 @@
+{
+    "databricks.connection.default.apiRootUrl": "https://community.cloud.databricks.com/?o=8996775051940350#",
+    "editor.defaultFormatter": "mshdinsight.azure-hdinsight"
+}
